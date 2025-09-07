@@ -15,7 +15,7 @@ to build and evaluate simple models.
 
 ## An Overview of Machine Learning
 
-An extensive review of this topic can be found [here](/C1-Machine-Learning-with-Python/M1-Introduction-to-Machine-Learning/An-Overview-of-Machine-Learning.md).
+An extensive review of this topic can be found [here](/C1-Machine-Learning-with-Python/M1-Introduction-to-Machine-Learning/01-An-Overview-of-Machine-Learning.md).
 
 Artificial intelligence, or AI, makes computers appear intelligent
 by simulating the cognitive abilities of humans. AI is a general field
@@ -139,34 +139,18 @@ How do telecommunication companies find how many of their customers will churn?
 They use demographic data to segment their customers and predict whether
 a customer will unsubscribe within the next month.
 
-## Machine Learning Model Lifecycle
-
-TBD
-
-## A Day in the life of a Machine Learning Engineer
-
-TBD
-
-## Data Scientist vs AI Engineer
-
-TBD
-
-## Tools for Machine Learning
-
-TBD
-
-## Scikit-learn Machine Learning Ecosystem
-
-TBD
+2. [Machine Learning Model Lifecycle](/C1-Machine-Learning-with-Python/M1-Introduction-to-Machine-Learning/01-An-Overview-of-Machine-Learning.md)
+3. [A Day in the life of a Machine Learning Engineer](/C1-Machine-Learning-with-Python/M1-Introduction-to-Machine-Learning/03-A-Day-in-the-Life-of-a-ML-Engineer.md)
+4. [Data Scientist vs AI Engineer](/C1-Machine-Learning-with-Python/M1-Introduction-to-Machine-Learning/04-Data-Scientist-vs-AI-Engineer.md)
+5. Tools for Machine Learning
+6. Scikit-learn Machine Learning Ecosystem
 
 ## Module 1 Summary and Highlights
 
 ## Assignments
 
-### Practice Quiz: Introduction to Machine Learning
-
-### Graded Quiz: Introduction to Machine Learning
-
-### Custom Quiz: Introduction to Machine Learning
+1. Practice Quiz: Introduction to Machine Learning
+2. Graded Quiz: Introduction to Machine Learning
+3. Custom Quiz: Introduction to Machine Learning
 
 ## Related Links
