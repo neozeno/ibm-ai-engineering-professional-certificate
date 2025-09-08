@@ -8,21 +8,21 @@
 - [ ] Clustering technique 
 - [ ] Association technique
 
-The answer is **Regression technique** because the problem asks
+> The answer is **Regression technique** because the problem asks
 to estimate the "exact blood sugar level" of diabetic patients.
 Blood sugar level is a continuous numerical value
 (like 120 mg/dL, 85 mg/dL, etc.), not a category or class.
 
-**Regression** is the ML technique used when you want to predict
+> **Regression** is the ML technique used when you want to predict
 continuous numerical values. It finds relationships between input features
 (age, weight, lifestyle habits) and outputs a specific numeric prediction.
 
-The other options wouldn't work for this task:
-- **Classification** predicts categories/classes (like "high," "normal,"
+> The other options wouldn't work for this task:
+> - **Classification** predicts categories/classes (like "high," "normal,"
   "low" blood sugar)
-- **Clustering** groups similar data points together without
+> - **Clustering** groups similar data points together without
   predicting specific values
-- **Association** finds relationships between variables
+> - **Association** finds relationships between variables
   but doesn't predict target values
 
 Since we need to predict an exact numerical blood sugar level, regression is the appropriate technique.
@@ -46,7 +46,7 @@ Since we need to predict an exact numerical blood sugar level, regression is the
 - [ ] Hadoop, Tableau, and JavaScript 
 - [ ] Excel, PowerPoint, and Illustrator
 - [ ] Spark, Premiere Pro, and Notepad 
-- [d] Pandas, Scikit-learn, and Matplotlib 
+- [x] Pandas, Scikit-learn, and Matplotlib 
 
 5. Twinkle wants to train and evaluate a ML model using Python and prefers
   a library with built-in support. Which of the following statements
