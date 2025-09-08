@@ -1,7 +1,5 @@
 # An Overview of Machine Learning: Understanding the Technology Transforming Our World
 
-> Written by Mauricio Paternina on September 2nd, 2025
-
 ## Introduction
 
 Machine Learning has evolved from an academic curiosity to one of the most 
