@@ -12,11 +12,11 @@
 to estimate the "exact blood sugar level" of diabetic patients.
 Blood sugar level is a continuous numerical value
 (like 120 mg/dL, 85 mg/dL, etc.), not a category or class.
-
+>
 > **Regression** is the ML technique used when you want to predict
 continuous numerical values. It finds relationships between input features
 (age, weight, lifestyle habits) and outputs a specific numeric prediction.
-
+>
 > The other options wouldn't work for this task:
 > - **Classification** predicts categories/classes (like "high," "normal,"
   "low" blood sugar)
@@ -24,8 +24,8 @@ continuous numerical values. It finds relationships between input features
   predicting specific values
 > - **Association** finds relationships between variables
   but doesn't predict target values
-
-Since we need to predict an exact numerical blood sugar level, regression is the appropriate technique.
+>
+> Since we need to predict an exact numerical blood sugar level, regression is the appropriate technique.
 
 2. Which of the following correctly describes the ML model lifecycle workflow?
 - [ ] Define problem → Prepare data → Deploy model
